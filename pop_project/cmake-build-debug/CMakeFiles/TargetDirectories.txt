@@ -1,0 +1,3 @@
+C:/Users/5faez/OneDrive/Desktop/funi/pop_project/cmake-build-debug/CMakeFiles/pop_project.dir
+C:/Users/5faez/OneDrive/Desktop/funi/pop_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/5faez/OneDrive/Desktop/funi/pop_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
